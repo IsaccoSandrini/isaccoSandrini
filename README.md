@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm Isacco Sandrini 👋
 
+📖 Master's student in Quantitative Finance at University of Verona 🔎 I'm interested in Actuarial Mathematics and Statistics.\
+🎓​ Bachelor's graduate in Mathematics at University of Trento, with a strong interest in Probability and Statistics.\
+💻​ I work with Java, Python, SAS and R.\
+📁 Academic projects:
+- 📈​ Binomial model simulator
+- 📈​ Var and ES estimator
+
+📫​ Contact me: isaccosandrini@gmail.com\
+🌐​ [Linkedin](https://www.linkedin.com/in/isacco-sandrini-795194205/)
 <!--
 **IsaccoSandrini/isaccoSandrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
