@@ -4,7 +4,7 @@
 🎓​ Bachelor's graduate in Mathematics at University of Trento, with a strong interest in Probability and Statistics.\
 💻​ I work with Java, Python, SAS and R.\
 📁 Academic projects:
-- 📈​ Binomial model simulator
+- 📈​ [Binomial model simulator](https://github.com/IsaccoSandrini/Binomial-Model-Simulator)
 - 📈​ Var and ES estimator
 
 📫​ Contact me: isaccosandrini@gmail.com\
