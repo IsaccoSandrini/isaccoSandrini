@@ -5,7 +5,7 @@
 💻​ I work with Java, Python, SAS and R.\
 📁 Academic projects:
 - 📈​ [Binomial model simulator](https://github.com/IsaccoSandrini/Binomial-Model-Simulator)
-- 📈​ Var and ES estimator
+- 📈​ [Var and ES estimator](https://github.com/IsaccoSandrini/VaR-and-ES-estimator)
 
 📫​ Contact me: isaccosandrini@gmail.com\
 🌐​ [Linkedin](https://www.linkedin.com/in/isacco-sandrini-795194205/)
